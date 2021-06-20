@@ -1,1 +1,1 @@
-# first-site
+# class-site
